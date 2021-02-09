@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "title": "Acer Aspire",
+      "price": 8000,
+      "image": "assets/images/AcerAspire-x2.png",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "image": "/assets/images/Alienware13-x2.png",
+      "title": "Alienware 13",
+      "price": 8000,
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+      "id": "3",
+      "image": "/assets/images/AmazonEcho-x2.png",
+      "title": "Amazon Echo",
+      "price": 8000,
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+      "id": "4",
+      "image": "/assets/images/AmazonEchoDot-x2.png",
+      "title": "Amazon Echo Dot",
+      "price": 8000,
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+      "id": "5",
+      "image": "/assets/images/AndroidWear-x2.png",
+      "title": "Android Wear",
+      "price": 8000,
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+      "id": "6",
+      "image": "/assets/images/BeatsPro-x2.png",
+      "title": "Beats Pro",
+      "price": 8000,
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+      "id": "7",
+      "image": "/assets/images/CanonEOS5D-x2.png",
+      "title": "Canon EOS5D",
+      "price": 8000,
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+      "id": "8",
+      "image": "/assets/images/Chromecast-x2.png",
+      "title": "Chromecast",
+      "price": 8000,
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+      "id": "9",
+      "image": "/assets/images/Dell-x2.png",
+      "title": "Dell",
+      "price": 8000,
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+      "id": "10",
+      "image": "/assets/images/GoPro-x2.png",
+      "title": "GoPro",
+      "price": 8000,
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+      "id": "11",
+      "image": "/assets/images/InstaxMini-x2.png",
+      "title": "Instax Mini",
+      "price": 8000,
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    },
+    {
+      "id": "12",
+      "image": "/assets/images/iPadMini-x2.png",
+      "title": "iPad Mini",
+      "price": 8000,
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    }
+  ]
+}
